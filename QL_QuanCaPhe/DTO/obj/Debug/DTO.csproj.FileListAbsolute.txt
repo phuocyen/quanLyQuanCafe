@@ -1,0 +1,10 @@
+C:\MonHoc\TH_HQTCSDL\QuanLyQuanCaPhe\QL_QuanCaPhe\DTO\bin\Debug\DTO.dll
+C:\MonHoc\TH_HQTCSDL\QuanLyQuanCaPhe\QL_QuanCaPhe\DTO\bin\Debug\DTO.pdb
+C:\MonHoc\TH_HQTCSDL\QuanLyQuanCaPhe\QL_QuanCaPhe\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\MonHoc\TH_HQTCSDL\QuanLyQuanCaPhe\QL_QuanCaPhe\DTO\obj\Debug\DTO.dll
+C:\MonHoc\TH_HQTCSDL\QuanLyQuanCaPhe\QL_QuanCaPhe\DTO\obj\Debug\DTO.pdb
+D:\Yen\TH_hqtcsdl\QuanLyQuanCaPhe\QL_QuanCaPhe\DTO\bin\Debug\DTO.dll
+D:\Yen\TH_hqtcsdl\QuanLyQuanCaPhe\QL_QuanCaPhe\DTO\bin\Debug\DTO.pdb
+D:\Yen\TH_hqtcsdl\QuanLyQuanCaPhe\QL_QuanCaPhe\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Yen\TH_hqtcsdl\QuanLyQuanCaPhe\QL_QuanCaPhe\DTO\obj\Debug\DTO.dll
+D:\Yen\TH_hqtcsdl\QuanLyQuanCaPhe\QL_QuanCaPhe\DTO\obj\Debug\DTO.pdb
